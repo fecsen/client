@@ -1,0 +1,39 @@
+.navbar {
+    display: flex;
+    background-color: #ff00c3;
+    justify-content: space-between;
+    height: 100px;
+  }
+  .navbar-menu {
+    display: flex;
+    list-style: none;
+    text-align: center;
+  }
+  .navbar-menu li {
+    color: #fff;
+  }
+  .navbar-menu-home {
+    margin: 25px 30px;
+  }
+  .navbar-menu-learning {
+    margin: 25px 30px;
+  }
+  .navbar-menu-project {
+    margin: 25px 30px;
+  }
+  .navbar-menu-contact {
+    margin: 25px 30px;
+  }
+  
+  .navbar-menu a {
+    color:#fff;
+  }
+  .navbar-logo {
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #fff
+  }
+  .navbar-menu h1 {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+  }
